@@ -14,8 +14,26 @@ airlines.csv
 
 airports.csv
 
-**Technologies Used**
-Tableau (Data Visualization, Interactive Dashboarding, Geospatial Mapping)
+**Tools and Technologies Used**
+
+* **Language:** Python
+* **Libraries:** Pandas, NumPy (Data Wrangling), Matplotlib, Seaborn (Data Visualization)
+* **Environment:** Jupyter Notebook
+* **Tableau** (Data Visualization, Interactive Dashboarding, Geospatial Mapping)
+
+## The Problem ##
+
+
+Maintaining a continuous-flow environment in aviation requires strict adherence to schedules and safety regulations. When delays occur, they strand physical assets (aircraft) and disrupt the broader supply chain network. The objective of this analysis is to:
+1. Clean and standardize a massive dataset of domestic flights.
+2. Isolate the primary drivers of delays (e.g., carrier-caused, routing, or weather).
+3. Identify geographic and temporal clusters where ground-level bottlenecks are most severe.
+
+## How to Run the Analysis ##
+
+1. Clone this repository.
+2. Ensure Python and the required libraries (Pandas, NumPy, Matplotlib, Seaborn) are installed.
+3. Open the Jupyter Notebook file and execute the cells sequentially to view the data wrangling process and visual insights.
 
 ## Data Analysis & Wrangling ##
 
